@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349999486810",
+    "project_id": "glassy-wave-241923",
+    "storage_bucket": "glassy-wave-241923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349999486810:android:7364454e5af6325d884563",
+        "android_client_info": {
+          "package_name": "com.jain.tirthankarvani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349999486810-tfqh5mla1onlochouokso0smtht8kuq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5t8QLhIgZDfTdITOKJTrohgVpbx35v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349999486810-tfqh5mla1onlochouokso0smtht8kuq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

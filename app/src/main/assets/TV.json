@@ -1,0 +1,509 @@
+{
+	"tirthanker": {
+		"display_type": "list",
+		"header": "Tirthankar",
+		"data_detail": "",
+		"img_name": "vani",
+		"data_list": [
+			{"name": "Bhootkaal Chaubeesi", "desc": "", "view_name": "bhootkaal", "view_type": "list"},
+			{"name":"Vartman Chaubeesi", "desc": "", "view_name": "vartman", "view_type": "list"},
+			{"name":"Bhavishya Chaubeesi", "desc": "", "view_name": "bhavishya", "view_type": "list"},
+			{"name":"Vidhyaman 20 Tirthanker", "desc": "", "view_name": "vidhyaman", "view_type": "list"}
+		]
+	},
+	"bhootkaal": {
+		"display_type": "list",
+		"header": "BhootKaal Chaubeesi",
+		"data_detail": "",
+		"img_name": "chaubeesi",
+		"data_list": [
+			{"name": "Shri Nirvan bhagvaan", "desc": ""}, {"name":"Shri Sagar bhagvaan", "desc": ""}, {"name":"Shri Mahasadhu bhagvaan", "desc": ""}, {"name":"Shri Vimalprabhu bhagvaan", "desc": ""},
+			{"name": "Shri Shreedhar bhagvaan", "desc": ""}, {"name":"Shri Sudatt bhagvaan", "desc": ""}, {"name":"Shri Amalprabhu bhagvaan", "desc": ""}, {"name":"Shri Udhdar bhagvaan", "desc": ""},
+			{"name": "Shri Adigar bhagvaan", "desc": ""}, {"name":"Shri Sanmati bhagvaan", "desc": ""}, {"name":"Shri Sindhu bhagvaan", "desc": ""}, {"name":"Shri Kusumanjali bhagvaan", "desc": ""},
+			{"name": "Shri Shivgan bhagvaan", "desc": ""}, {"name":"Shri Utsah bhagvaan", "desc": ""}, {"name":"Shri Gyaneshwar bhagvaan", "desc": ""}, {"name":"Shri Parameshwar bhagvaan", "desc": ""},
+			{"name": "Shri Vimaleshwar bhagvaan", "desc": ""}, {"name":"Shri Yashodhar bhagvaan", "desc": ""}, {"name":"Shri Krashamati bhagvaan", "desc": ""}, {"name":"Shri Gyanmati bhagvaan", "desc": ""},
+			{"name": "Shri Shuddhmati bhagvaan", "desc": ""}, {"name":"Shri Bhadra bhagvaan", "desc": ""}, {"name":"Shri Atikrant bhagvaan", "desc": ""}, {"name":"Shri Shanta bhagvaan", "desc": ""}
+		]
+	},
+	"vartman": {
+		"display_type": "list",
+		"header": "Vartman Chaubeesi",
+		"data_detail": "",
+		"img_name": "chaubeesi",
+		"data_list": [
+			{"name": "Shri Rishabhanath bhagvaan", "desc": "Bull - Ashtapad (Kailasha)"}, {"name":"Shri Ajitnath bhagvaan", "desc": "Elephant -Sammed Sikhar"}, {"name":"Shri Sambhavanath bhagvaan", "desc": "Horse - Sammed Sikhar"}, {"name":"Shri Abhinandannath bhagvaan", "desc": "Monkey - Sammed Sikhar"},
+			{"name": "Shri Sumatinath bhagvaan", "desc": "Red Goose - Sammed Sikhar"}, {"name":"Shri Padmaprabha bhagvaan", "desc": "Lotus - Sammed Sikhar"}, {"name":"Shri Suparshvanath bhagvaan", "desc": "Swastika - Sammed Sikhar"}, {"name":"Shri Chandraprabha bhagvaan", "desc": "Moon - Sammed Sikhar"},
+			{"name": "Shri Pushpadant bhagvaan", "desc": "Crocodile - Sammed Sikhar"}, {"name":"Shri Sheetalnath bhagvaan", "desc": "Kalpavriksha - Sammed Sikhar"}, {"name":"Shri Shreyanshnath bhagvaan", "desc": "Rhinoceros - Sammed Sikhar"}, {"name":"Shri Vasupujya bhagvaan", "desc": "Female buffalo - Champapuri"},
+			{"name": "Shri Vimalnath bhagvaan", "desc": "Pig - Sammed Sikhar"}, {"name":"Shri Anantnath bhagvaan", "desc": "Porcupine - Sammed Sikhar"}, {"name":"Shri Dharmanath bhagvaan", "desc": "Vajra - Sammed Sikhar"}, {"name":"Shri Shantinath bhagvaan", "desc": "Deer - Sammed Sikhar"},
+			{"name": "Shri Kunthunath bhagvaan", "desc": "Goat - Sammed Sikhar"}, {"name":"Shri Aranath bhagvaan", "desc": "Fish - Sammed Sikhar"}, {"name":"Shri Mallinath bhagvaan", "desc": "Kalasa -Sammed Sikhar"}, {"name":"Shri Munisuvrata bhagvaan", "desc": "Tortoise - Sammed Sikhar"},
+			{"name": "Shri Naminath bhagvaan", "desc": "Blue-Lily - Sammed Sikhar"}, {"name":"Shri Neminath bhagvaan", "desc": "Conch - Mount Girnar"}, {"name":"Shri Parshvanath bhagvaan", "desc": "Snake - Sammed Sikhar"}, {"name":"Shri Mahavira bhagvaan", "desc": "Lion - Pava Puri"}
+		]
+	},
+	"bhavishya": {
+		"display_type": "list",
+		"header": "Bhavishya Chaubeesi",
+		"data_detail": "",
+		"img_name": "chaubeesi",
+		"data_list": [
+			{"name": "Shri Mahapadm bhagvaan", "desc": ""}, {"name":"Shri Surdev bhagvaan", "desc": ""}, {"name":"Shri Suparshva bhagvaan", "desc": ""}, {"name":"Shri Swayamprabh bhagvaan", "desc": ""},
+			{"name": "Shri Sarvanudhuti bhagvaan", "desc": ""}, {"name":"Shri Devputra bhagvaan", "desc": ""}, {"name":"Shri Kulputra bhagvaan", "desc": ""}, {"name":"Shri Udank bhagvaan", "desc": ""},
+			{"name": "Shri Poshthil bhagvaan", "desc": ""}, {"name":"Shri Jaykirti bhagvaan", "desc": ""}, {"name":"Shri Munisuvrat bhagvaan", "desc": ""}, {"name":"Shri Amam (Arichi) bhagvaan", "desc": ""},
+			{"name": "Shri Nishpap bhagvaan", "desc": ""}, {"name":"Shri Nishkashay bhagvaan", "desc": ""}, {"name":"Shri Vipul bhagvaan", "desc": ""}, {"name":"Shri Nirmal bhagvaan", "desc": ""},
+			{"name": "Shri Chitragupt bhagvaan", "desc": ""}, {"name":"Shri Samadhigupt bhagvaan", "desc": ""}, {"name":"Shri Sawayam Prabhu bhagvaan", "desc": ""}, {"name":"Shri Anivrattik bhagvaan", "desc": ""},
+			{"name": "Shri Jay bhagvaan", "desc": ""}, {"name":"Shri Vimal bhagvaan", "desc": ""}, {"name":"Shri Devpal bhagvaan", "desc": ""}, {"name":"Shri Anantvirya bhagvaan", "desc": ""}
+		]
+	},
+	"vidhyaman": {
+		"display_type": "list",
+		"header": "Vidhyaman 20",
+		"data_detail": "",
+		"img_name": "chaubeesi",
+		"data_list": [
+			{"name": "Shri Simandhar bhagvaan", "desc": ""}, {"name":"Shri Yugmandhar bhagvaan", "desc": ""}, {"name":"Shri Bahu bhagvaan", "desc": ""}, {"name":"Shri Subahu bhagvaan", "desc": ""},
+			{"name": "Shri Sanjak bhagvaan", "desc": ""}, {"name":"Shri Swayamprabhu bhagvaan", "desc": ""}, {"name":"Shri Rishabhanan bhagvaan", "desc": ""}, {"name":"Shri Anant Virya bhagvaan", "desc": ""},
+			{"name": "Shri Surprabh bhagvaan", "desc": ""}, {"name":"Shri Vishal Kirti bhagvaan", "desc": ""}, {"name":"Shri Chandranan bhagvaan", "desc": ""}, {"name":"Shri Bhadrabahu bhagvaan", "desc": ""},
+			{"name": "Shri Bhurjgay bhagvaan", "desc": ""}, {"name":"Shri Bhurjgay bhagvaan", "desc": ""}, {"name":"Shri Ishwar bhagvaan", "desc": ""}, {"name":"Shri Nemiprabh bhagvaan", "desc": ""},
+			{"name": "Shri Veersen bhagvaan", "desc": ""}, {"name":"Shri Mahabhadra bhagvaan", "desc": ""}, {"name":"Shri Devyash bhagvaan", "desc": ""}, {"name":"Shri Ajitvirya bhagvaan", "desc": ""}
+		]
+	},
+	"pooja": {
+		"display_type": "list",
+		"header": "Pooja Vidhi",
+		"data_detail": "",
+		"img_name": "pooja",
+		"data_list": [
+			{"name": "Abhishek", "desc": "अभिषेक", "view_name": "abhishek_list", "view_type": "list"},
+			{"name":"Darshan Paath", "desc": "दर्शन पाठ", "view_name": "darshan_paath", "view_type": "detail"},
+			{"name":"Gandhodak Mantra", "desc": "गंधोदक मंत्र", "view_name": "gandhodak_mantra", "view_type": "detail"},
+			{"name":"Samast Arghawali", "desc": "समस्त अर्घ्यावली", "view_name": "arghawali", "view_type": "detail"},
+			{"name":"Tirthankar Arghawali", "desc": "तीर्थंकर अर्घ्यावली", "view_name": "tirthankar_arghawali", "view_type": "detail"},
+			{"name":"Muni Arghawali", "desc": "मुनि अर्घ्यावली", "view_name": "muni_arghawali", "view_type": "detail"},
+			{"name":"Maha Arghya", "desc": "महार्घ्य", "view_name": "maha_arghya", "view_type": "detail"},
+			{"name":"Vinay Paath", "desc": "विनय पाठ", "view_name": "vinay_paath", "view_type": "detail"},
+			{"name":"Shanti Dhaara", "desc": "शांति धारा", "view_name": "shanti_dhaara", "view_type": "detail"},
+			{"name":"Shanti Mantra", "desc": "शांति मंत्र", "view_name": "shanti_mantra", "view_type": "detail"},
+			{"name":"Mangal paath", "desc": "मंगल पाठ", "view_name": "mangal_paath", "view_type": "detail"},
+			{"name":"Pooja Prarambh", "desc": "पूजा प्रारम्भ", "view_name": "pooja_prarambh", "view_type": "detail"},
+			{"name":"Pooja Pratigya Paath", "desc": "पूजा प्रतिज्ञा पाठ", "view_name": "pooja_pratigya_paath", "view_type": "detail"},
+			{"name":"24 Tirthankar Swasti Paath", "desc": "२४ तीर्थंकर स्वस्ति पाठ", "view_name": "swasti_mangal_paath", "view_type": "detail"},
+			{"name":"Param Rishi Swasti Magal Paath", "desc": "परम ऋषि स्वस्ति मगल पाठ", "view_name": "rishi_mangal_path", "view_type": "detail"},
+			{"name":"Samuchchaya pooja", "desc": "समुच्चय पूजा", "view_name": "samuchchaya_pooja", "view_type": "detail"},
+			{"name":"Samuchay Chubeesi Jinpujan Pooja", "desc": "समुच्चय चौबीसी जनपूजा", "view_name": "samuchay_chubeesi_jinpujan", "view_type": "detail"},
+			{"name":"Navdevtha Pooja - Purnmati Mataji", "desc": "नवदेवता पूजा - पूर्णमती माता जी", "view_name": "navdevtha_pooja_mata_ji", "view_type": "detail"},
+			{"name":"Navdevtha Pooja", "desc": "नवदेवता पूजा", "view_name": "navdevtha_pooja", "view_type": "detail"},
+			{"name":"Shree Nandishwar Dweep Pooja", "desc": "श्री नन्दीश्वर द्वीप पूजा", "view_name": "Nandishwar_dweep_pooja", "view_type": "detail"},
+			{"name":"Siddh Chakra Pooja", "desc": "सिद्ध चक्र पूजा", "view_name": "siddha_chakra_pooja", "view_type": "detail"},
+			{"name":"Shri Adinath Jin Pooja", "desc": "श्री आदिनाथ जिन पूजा", "view_name": "shri_adinath_pooja", "view_type": "detail"},
+			{"name":"Shri Padamprabhu Jin Pooja", "desc": "श्री पदमप्रभु जिन पूजा", "view_name": "shri_padamprabhu_pooja", "view_type": "detail"},
+			{"name":"Shri Chandra Prabhu Jin Pooja", "desc": "श्री चन्द्र प्रभु जिन पूजा", "view_name": "shri_chandraprabhu_pooja", "view_type": "detail"},
+			{"name":"Shri Sheetalnath Jin Pooja", "desc": "श्री शीतलनाथ जिन पूजा", "view_name": "shri_sheetalnath_pooja", "view_type": "detail"},
+			{"name":"Shanti Paath", "desc": "शांतिपाठ", "view_name": "shanti_paath", "view_type": "detail"},
+			{"name":"Visarjan Paath", "desc": "विसर्जन", "view_name": "visarjan_paath", "view_type": "detail"}
+		]
+	},
+	"Nandishwar_dweep_pooja": {
+		"display_type": "detail",
+		"header": "Shree Nandishwar Dweep Pooja",
+		"header_change": "श्री नन्दीश्वर द्वीप पूजा",
+		"data_detail": "Nandishwar_dweep_pooja",
+		"look_string": true,
+		"data_list": []
+	},
+	"navdevtha_pooja_mata_ji": {
+		"display_type": "detail",
+		"header": "Navdevtha Poojan",
+		"header_change": "नवदेवता पूजन",
+		"data_detail": "navdevtha_pooja_mata_ji",
+		"look_string": true,
+		"data_list": []
+	},
+	"visarjan_paath": {
+		"display_type": "detail",
+		"header": "Visarjan Paath",
+		"header_change": "विसर्जन",
+		"data_detail": "visarjan_paath",
+		"look_string": true,
+		"data_list": []
+	},
+	"shanti_paath": {
+		"display_type": "detail",
+		"header": "Shanti Paath",
+		"header_change": "शांतिपाठ",
+		"data_detail": "shanti_paath",
+		"look_string": true,
+		"data_list": []
+	},
+	"maha_arghya": {
+		"display_type": "detail",
+		"header": "Maha Arghya",
+		"header_change": "महार्घ्य",
+		"data_detail": "maha_arghya",
+		"look_string": true,
+		"data_list": []
+	},
+	"muni_arghawali": {
+		"display_type": "detail",
+		"header": "Muni Arghawali",
+		"header_change": "मुनि अर्घ्यावली",
+		"data_detail": "muni_arghawali",
+		"look_string": true,
+		"data_list": []
+	},
+	"arghawali": {
+		"display_type": "detail",
+		"header": "Samast Arghawali",
+		"header_change": "समस्त अर्घ्यावली",
+		"data_detail": "arghawali",
+		"look_string": true,
+		"data_list": []
+	},
+	"tirthankar_arghawali": {
+		"display_type": "detail",
+		"header": "Tirthankar Arghawali",
+		"header_change": "तीर्थंकर अर्घ्यावली",
+		"data_detail": "tirthankar_arghawali",
+		"look_string": true,
+		"data_list": []
+	},
+
+	"shri_sheetalnath_pooja": {
+		"display_type": "detail",
+		"header": "Shri Sheetalnath Jin Pooja",
+		"header_change": "श्री शीतलनाथ जिन पूजा",
+		"data_detail": "shri_sheetalnath_pooja",
+		"look_string": false,
+		"data_list": []
+	},
+	"shri_chandraprabhu_pooja": {
+		"display_type": "detail",
+		"header": "Shri Chandra Prabhu Jin Pooja",
+		"header_change": "श्री चन्द्र प्रभु जिन पूजा",
+		"data_detail": "shri_chandraprabhu_pooja",
+		"look_string": false,
+		"data_list": []
+	},
+	"shri_padamprabhu_pooja": {
+		"display_type": "detail",
+		"header": "Shri Padamprabhu Jin Pooja",
+		"header_change": "श्री पदमप्रभु जिन पूजा",
+		"data_detail": "shri_padamprabhu_pooja",
+		"look_string": false,
+		"data_list": []
+	},
+	"shri_adinath_pooja": {
+		"display_type": "detail",
+		"header": "Shri Adinath Jin Pooja",
+		"header_change": "श्री आदिनाथ जिन पूजा",
+		"data_detail": "shri_adinath_pooja",
+		"look_string": false,
+		"data_list": []
+	},
+	"siddha_chakra_pooja": {
+		"display_type": "detail",
+		"header": "Siddh Chakra Pooja",
+		"header_change": "सिद्ध चक्र पूजा",
+		"data_detail": "siddha_chakra_pooja",
+		"look_string": false,
+		"data_list": []
+	},
+	"navdevtha_pooja": {
+		"display_type": "detail",
+		"header": "Navdevtha Pooja",
+		"header_change": "नवदेवता पूजा",
+		"data_detail": "navdevtha_pooja",
+		"look_string": true,
+		"data_list": []
+	},
+	"samuchay_chubeesi_jinpujan": {
+		"display_type": "detail",
+		"header": "Samuchay Chubeesi Jinpujan Pooja",
+		"header_change": "समुच्चय चौबीसी जनपूजा",
+		"data_detail": "samuchay_chubeesi_jinpujan",
+		"look_string": true,
+		"data_list": []
+	},
+	"samuchchaya_pooja": {
+		"display_type": "detail",
+		"header": "Samuchchaya pooja",
+		"header_change": "समुच्चय पूजा",
+		"data_detail": "samuchchaya_pooja",
+		"look_string": true,
+		"data_list": []
+	},
+	"rishi_mangal_path": {
+		"display_type": "detail",
+		"header": "Param Rishi Swasti Mangal Paath",
+		"header_change": "परम ऋषि स्वस्ति मगल पाठ",
+		"data_detail": "rishi_mangal_path",
+		"look_string": true,
+		"data_list": []
+	},
+	"swasti_mangal_paath": {
+		"display_type": "detail",
+		"header": "24 Tirthankar Swasti Paath",
+		"header_change": "२४ तीर्थंकर स्वस्ति पाठ",
+		"data_detail": "swasti_mangal_paath",
+		"look_string": true,
+		"data_list": []
+	},
+	"pooja_pratigya_paath": {
+		"display_type": "detail",
+		"header": "Pooja Pratigya Paath",
+		"header_change": "पूजा प्रतिज्ञा पाठ",
+		"data_detail": "pooja_pratigya_paath",
+		"look_string": true,
+		"data_list": []
+	},
+	"pooja_prarambh": {
+		"display_type": "detail",
+		"header": "Pooja Prarambh",
+		"header_change": "पूजा प्रारम्भ",
+		"data_detail": "pooja_prarambh",
+		"look_string": true,
+		"data_list": []
+	},
+	"mangal_paath": {
+		"display_type": "detail",
+		"header": "Mangal Paath",
+		"header_change": "मंगल पाठ",
+		"data_detail": "mangal_paath",
+		"look_string": true,
+		"data_list": []
+	},
+	"shanti_mantra": {
+		"display_type": "detail",
+		"header": "Shanti Mantra",
+		"header_change": "शांति मंत्र",
+		"data_detail": "shanti_mantra",
+		"look_string": false,
+		"data_list": []
+	},
+	"shanti_dhaara": {
+		"display_type": "detail",
+		"header": "Shanti Dhaara",
+		"header_change": "शांति धारा",
+		"data_detail": "shanti_dhaara",
+		"look_string": true,
+		"data_list": []
+	},
+	"vinay_paath": {
+		"display_type": "detail",
+		"header": "Vinay Paath",
+		"header_change": "विनय पाठ",
+		"data_detail": "vinay_paath",
+		"look_string": true,
+		"data_list": []
+	},
+	"gandhodak_mantra": {
+		"display_type": "detail",
+		"header": "Gandhodak Mantra",
+		"header_change": "गंधोदक मंत्र",
+		"data_detail": "gandhodak_mantra",
+		"look_string": true,
+		"data_list": []
+	},
+	"darshan_paath": {
+		"display_type": "detail",
+		"header": "Darshan Paath",
+		"header_change": "दर्शन पाठ",
+		"data_detail": "darshan_paath",
+		"look_string": true,
+		"data_list": []
+	},
+	"abhishek_list": {
+		"display_type": "list",
+		"header": "Abhishek Vidhi",
+		"data_detail": "",
+		"img_name": "pooja",
+		"data_list": [
+			{"name": "Abhishek Vidhi Paath", "desc": "अभिषेक विधी पाथ", "view_name": "abhishek_vidihi", "view_type": "detail"},
+			{"name":"Jalabhishek Paath", "desc": "जलाभिषेक पाठ", "view_name": "jal_abhishek_paath", "view_type": "detail"}
+		]
+	},
+	"abhishek_vidihi": {
+		"display_type": "detail",
+		"header": "Abhishek Vidhi Paath",
+		"header_change": "अभिषेक विधी पाथ",
+		"data_detail": "abhishek_vidihi",
+		"look_string": false,
+		"data_list": []
+	},
+	"jal_abhishek_paath": {
+		"display_type": "detail",
+		"header": "Jalabhishek Paath",
+		"header_change": "जलाभिषेक पाठ",
+		"data_detail": "jal_abhishek_paath",
+		"look_string": false,
+		"data_list": []
+	},
+	"stotra": {
+		"display_type": "list",
+		"header": "Stotra",
+		"data_detail": "",
+		"img_name": "pooja",
+		"data_list": [
+			{"name": "Shree Mangalashtak Stotra", "desc": "श्री मंगलाष्टक स्तोत्र", "view_name": "mangalashtak_stotra", "view_type": "detail"},
+			{"name":"Bhaktamar Stotra - Sanskrit", "view_name": "bhaktamarStotra" ,"desc": "भक्तामर स्तोत्र", "view_type": "detail"},
+			{"name":"Shri Parshwanath Stotra", "view_name": "shri_parshwanath_stotra" ,"desc": "श्री पार्श्वनाथ स्तोत्र", "view_type": "detail"},
+			{"name":"Mahavirashtak Stotra", "view_name": "mahavirashtak_stotra" ,"desc": "महावीराष्टक स्तोत्र", "view_type": "detail"}
+		]
+	},
+	"mangalashtak_stotra": {
+		"display_type": "detail",
+		"header": "Shree Mangalashtak Stotra",
+		"header_change": "श्री मंगलाष्टक स्तोत्र",
+		"data_detail": "mangalashtak_stotra",
+		"look_string": true,
+		"data_list": []
+	},
+	"bhaktamarStotra": {
+		"display_type": "detail",
+		"header": "Bhaktamar Stotra",
+		"header_change": "भक्तामर स्तोत्र",
+		"data_detail": "bhaktamar_stotra",
+		"look_string": true,
+		"data_list": []
+	},
+	"shri_parshwanath_stotra": {
+		"display_type": "detail",
+		"header": "Shri Parshwanath Stotra",
+		"header_change": "श्री पार्श्वनाथ स्तोत्र",
+		"data_detail": "shri_parsnwanath_stotra",
+		"look_string": true,
+		"data_list": []
+	},
+	"mahavirashtak_stotra": {
+		"display_type": "detail",
+		"header": "Mahavirashtak Stotra",
+		"header_change": "महावीराष्टक स्तोत्र",
+		"data_detail": "mahavirashtak_stotra",
+		"look_string": true,
+		"data_list": []
+	},
+	"more": {
+		"display_type": "list",
+		"header": "More",
+		"data_detail": "",
+		"img_name": "pooja",
+		"data_list": [
+			{"name": "Bhakti", "desc": "भक्ति", "view_type": "list", "view_name": "bhakti"},
+			{"name":"Stuti", "desc": "स्तुति", "view_type": "list", "view_name": "stuti"},
+			{"name":"Nirvan Kand", "desc": "निर्वाण कांड", "view_name": "nirvan_kand", "view_type": "detail"},
+			{"name":"Jain Calendar", "desc": "जैन पंचांग", "view_name": "jain_calendar", "view_type": "image"},
+			{"name":"About Us", "desc": "", "view_name": "aboutus", "view_type": "detail"}
+		]
+	},
+
+	"bhakti": {
+		"display_type": "list",
+		"header": "Bhakti",
+		"data_detail": "",
+		"img_name": "pooja",
+		"data_list": [
+			{"name": "Ashtaahnika Abhishek Aaratee", "desc": "अष्टाह्निका अभिषेक आरती", "view_name":"ashtaahnika_abhishek", "view_type": "detail"},
+			{"name": "Bahubali Bhagwan Ka Mastakabhishek", "desc": "बाहुबली भगवान का मस्तकाभिषेक", "view_name":"bahubali_mastakabhi", "view_type": "detail"},
+			{"name": "Nirkho Ang Ang Jin-Var Ke", "desc": "निरखो अंग अंग जिन-वार की", "view_name":"nirkho_ang_jinvar_ke", "view_type": "detail"},
+			{"name": "Janam Abhishek Ka Geet", "desc": "जनम अभिषेक का गीत", "view_name":"janam_abhi_geet", "view_type": "detail"}
+		]
+	},
+	"ashtaahnika_abhishek": {
+		"display_type": "detail",
+		"header": "Ashtaahnika Abhishek Aaratee",
+		"header_change": "अष्टाह्निका अभिषेक आरती",
+		"data_detail": "ashtaahnika_abhishek",
+		"look_string": false,
+		"data_list": []
+	},
+	"bahubali_mastakabhi": {
+		"display_type": "detail",
+		"header": "Bahubali Bhagwan Ka Mastakabhishek",
+		"header_change": "बाहुबली भगवान का मस्तकाभिषेक",
+		"data_detail": "Bahubali_mastakabhi",
+		"look_string": true,
+		"data_list": []
+	},
+	"nirkho_ang_jinvar_ke": {
+		"display_type": "detail",
+		"header": "Nirkho Ang Ang Jin-Var Ke",
+		"header_change": "निरखो अंग अंग जिन-वार की",
+		"data_detail": "nirkho_ang_jinvar_ke",
+		"look_string": true,
+		"data_list": []
+	},
+	"janam_abhi_geet": {
+		"display_type": "detail",
+		"header": "Janam Abhishek Ka Geet",
+		"header_change": "जनम अभिषेक का गीत",
+		"data_detail": "janam_abhi_geet",
+		"look_string": true,
+		"data_list": []
+	},
+	"stuti": {
+		"display_type": "list",
+		"header": "Stuti",
+		"data_detail": "",
+		"img_name": "pooja",
+		"data_list": [
+			{"name": "Abhishek Stuti", "desc": "अभिषेक स्तुति", "view_name": "abhishek_stuti", "view_type": "detail"},
+			{"name": "Dev Stuti", "desc": "देव स्तुति", "view_name": "dev_stuti", "view_type": "detail"},
+			{"name": "Shree Parshvanath Stuti", "desc": "श्री पार्श्व नाथ स्तुति", "view_name": "shree_parshvanath_stuti", "view_type": "detail"},
+			{"name": "Shree Mahaveer Stuti", "desc": "श्री महावीर स्तुति", "view_name": "shree_mahaveer_stuti", "view_type": "detail"}
+		]
+	},
+	"abhishek_stuti": {
+		"display_type": "detail",
+		"header": "Abhishek Stuti",
+		"header_change": "अभिषेक स्तुति",
+		"data_detail": "abhishek_stuti",
+		"look_string": true,
+		"data_list": []
+	},
+	"dev_stuti": {
+		"display_type": "detail",
+		"header": "Dev Stuti",
+		"header_change": "देव स्तुति",
+		"data_detail": "dev_stuti",
+		"look_string": true,
+		"data_list": []
+	},
+	"shree_parshvanath_stuti": {
+		"display_type": "detail",
+		"header": "Shree Parshvanath Stuti",
+		"header_change": "श्री पार्श्व नाथ स्तुति",
+		"data_detail": "shree_parshvanath_stuti",
+		"look_string": true,
+		"data_list": []
+	},
+	"shree_mahaveer_stuti": {
+		"display_type": "detail",
+		"header": "Shree Mahaveer Stuti",
+		"header_change": "श्री महावीर स्तुति",
+		"data_detail": "shree_mahaveer_stuti",
+		"look_string": false,
+		"data_list": []
+	},
+	"nirvan_kand": {
+		"display_type": "detail",
+		"header": "Nirvan Kand",
+		"header_change": "निर्वाण कांड",
+		"data_detail": "nirvan_kand",
+		"look_string": true,
+		"data_list": []
+	},
+	"jain_calendar": {
+		"display_type": "image",
+		"header": "Jain Calendar",
+		"header_change": "जैन पंचांग",
+		"look_string": false,
+		"data_detail": "jain_calendar",
+		"data_list": []
+	},
+	"aboutus": {
+		"display_type": "detail",
+		"header": "About Us",
+		"header_change": "About Us",
+		"look_string": false,
+		"data_detail": "about_us",
+		"data_list": []
+	}
+}

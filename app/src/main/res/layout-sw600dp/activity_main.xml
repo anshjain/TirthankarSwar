@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:contentDescription="@string/app_name"
+        app:layout_constraintBottom_toTopOf="@+id/btncnter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.033"
+        app:srcCompat="@mipmap/tirthankar_vani" />
+
+    <LinearLayout
+        android:id="@+id/btncnter"
+        android:layout_width="600dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/navkar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ff9800"
+            android:drawableTop="@drawable/navkar"
+            android:onClick="navkar"
+            android:textColor="#000000"
+            tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/tirthankarbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ff9800"
+            android:drawableTop="@drawable/tirthankarbtn"
+            android:onClick="tirthanker"
+            android:textColor="#000000"
+            android:textSize="12sp"
+            tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/poojabtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ff9800"
+            android:drawableTop="@drawable/pooja"
+            android:onClick="pooja"
+            android:textColor="#000000"
+            tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/stotrabtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ff9800"
+            android:drawableTop="@drawable/stotra"
+            android:onClick="stotra"
+            android:textColor="#000000"
+            tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/morebtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ff9800"
+            android:drawableTop="@drawable/morebtn"
+            android:onClick="more"
+            android:textColor="#000000"
+            tools:ignore="ButtonStyle" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

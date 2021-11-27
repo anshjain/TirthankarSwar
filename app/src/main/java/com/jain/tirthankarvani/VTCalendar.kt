@@ -20,8 +20,8 @@ class VTCalendar : AppCompatActivity() {
         val year = c.get(Calendar.YEAR)
         val month = c.get(Calendar.MONTH)
 
-        val file_name = "vt_" + month + "_" + year
-        val id = resources.getIdentifier(file_name, "drawable", getPackageName());
+        val filename = "vt_" + month + "_" + year
+        val id = resources.getIdentifier(filename, "drawable", packageName);
         val image = findViewById<View>(R.id.imageView5) as PhotoView
         if (id != 0){
             image.setImageResource(id)

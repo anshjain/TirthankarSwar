@@ -126,6 +126,8 @@ class DisplayListData : AppCompatActivity(), SearchView.OnQueryTextListener {
 
             } else if (vaniData.view_type == "image") {
                 Intent(context, VTCalendar::class.java)
+            } else if (vaniData.view_type == "tvain_msg_detail") {
+                Intent(context, TVaniMessage::class.java)
             } else {
                 Intent(context, DisplayMessageActivity::class.java)
             }

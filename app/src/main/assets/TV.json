@@ -32,11 +32,11 @@
 		"img_name": "chaubeesi",
 		"data_list": [
 			{"name": "Shri Rishabhanath bhagvaan", "desc": "Bull - Ashtapad (Kailasha)"}, {"name":"Shri Ajitnath bhagvaan", "desc": "Elephant -Sammed Sikhar"}, {"name":"Shri Sambhavanath bhagvaan", "desc": "Horse - Sammed Sikhar"}, {"name":"Shri Abhinandannath bhagvaan", "desc": "Monkey - Sammed Sikhar"},
-			{"name": "Shri Sumatinath bhagvaan", "desc": "Red Goose - Sammed Sikhar"}, {"name":"Shri Padmaprabha bhagvaan", "desc": "Lotus - Sammed Sikhar"}, {"name":"Shri Suparshvanath bhagvaan", "desc": "Swastika - Sammed Sikhar"}, {"name":"Shri Chandraprabha bhagvaan", "desc": "Moon - Sammed Sikhar"},
+			{"name": "Shri Sumatinath bhagvaan", "desc": "Red Goose - Sammed Sikhar"}, {"name":"Shri Padmaprabhu bhagvaan", "desc": "Lotus - Sammed Sikhar"}, {"name":"Shri Suparshvanath bhagvaan", "desc": "Swastika - Sammed Sikhar"}, {"name":"Shri Chandraprabhu bhagvaan", "desc": "Moon - Sammed Sikhar"},
 			{"name": "Shri Pushpadant bhagvaan", "desc": "Crocodile - Sammed Sikhar"}, {"name":"Shri Sheetalnath bhagvaan", "desc": "Kalpavriksha - Sammed Sikhar"}, {"name":"Shri Shreyanshnath bhagvaan", "desc": "Rhinoceros - Sammed Sikhar"}, {"name":"Shri Vasupujya bhagvaan", "desc": "Female buffalo - Champapuri"},
 			{"name": "Shri Vimalnath bhagvaan", "desc": "Pig - Sammed Sikhar"}, {"name":"Shri Anantnath bhagvaan", "desc": "Porcupine - Sammed Sikhar"}, {"name":"Shri Dharmanath bhagvaan", "desc": "Vajra - Sammed Sikhar"}, {"name":"Shri Shantinath bhagvaan", "desc": "Deer - Sammed Sikhar"},
 			{"name": "Shri Kunthunath bhagvaan", "desc": "Goat - Sammed Sikhar"}, {"name":"Shri Aranath bhagvaan", "desc": "Fish - Sammed Sikhar"}, {"name":"Shri Mallinath bhagvaan", "desc": "Kalasa -Sammed Sikhar"}, {"name":"Shri Munisuvrata bhagvaan", "desc": "Tortoise - Sammed Sikhar"},
-			{"name": "Shri Naminath bhagvaan", "desc": "Blue-Lily - Sammed Sikhar"}, {"name":"Shri Neminath bhagvaan", "desc": "Conch - Mount Girnar"}, {"name":"Shri Parshvanath bhagvaan", "desc": "Snake - Sammed Sikhar"}, {"name":"Shri Mahavira bhagvaan", "desc": "Lion - Pava Puri"}
+			{"name": "Shri Naminath bhagvaan", "desc": "Blue-Lily - Sammed Sikhar"}, {"name":"Shri Neminath bhagvaan", "desc": "Conch - Mount Girnar"}, {"name":"Shri Parshvanath bhagvaan", "desc": "Snake - Sammed Sikhar"}, {"name":"Shri Mahaveer bhagvaan", "desc": "Lion - Pava Puri"}
 		]
 	},
 	"bhavishya": {
@@ -74,7 +74,8 @@
 		"data_list": [
 			{"name": "Abhishek", "desc": "अभिषेक", "view_name": "abhishek_list", "view_type": "list"},
 			{"name":"Darshan Paath", "desc": "दर्शन पाठ", "view_name": "darshan_paath", "view_type": "detail"},
-			{"name":"Gandhodak Mantra", "desc": "गंधोदक मंत्र", "view_name": "gandhodak_mantra", "view_type": "detail"},
+			{"name":"Gandhodak Mantra", "desc": "गंधोदक मंत्र", "view_name": "gandhodak_mantra", "view_type": "tvain_msg_detail"},
+			{"name": "Sammed Shikhar Ji Tonk Arghawali", "desc": "श्री सम्मेद शिखर टोंको के अर्घ", "view_name": "sammed_shikhar_ji_args", "view_type": "list"},
 			{"name":"Samast Arghawali", "desc": "समस्त अर्घ्यावली", "view_name": "arghawali", "view_type": "detail"},
 			{"name":"Tirthankar Arghawali", "desc": "तीर्थंकर अर्घ्यावली", "view_name": "tirthankar_arghawali", "view_type": "detail"},
 			{"name":"Muni Arghawali", "desc": "मुनि अर्घ्यावली", "view_name": "muni_arghawali", "view_type": "detail"},
@@ -97,9 +98,27 @@
 			{"name":"Shri Padamprabhu Jin Pooja", "desc": "श्री पदमप्रभु जिन पूजा", "view_name": "shri_padamprabhu_pooja", "view_type": "detail"},
 			{"name":"Shri Chandra Prabhu Jin Pooja", "desc": "श्री चन्द्र प्रभु जिन पूजा", "view_name": "shri_chandraprabhu_pooja", "view_type": "detail"},
 			{"name":"Shri Sheetalnath Jin Pooja", "desc": "श्री शीतलनाथ जिन पूजा", "view_name": "shri_sheetalnath_pooja", "view_type": "detail"},
+			{"name":"Shri Parashvanaath Jin Pooja", "desc": "श्री पार्श्वनाथ जिन पूजा", "view_name": "shri_parashvanaath_pooja", "view_type": "detail"},
+			{"name":"Shri Mahaveer Swami Jin Pooja", "desc": "श्री महावीर स्वामी जिन पूजा", "view_name": "shri_mahaveerswami_pooja", "view_type": "detail"},
 			{"name":"Shanti Paath", "desc": "शांतिपाठ", "view_name": "shanti_paath", "view_type": "detail"},
 			{"name":"Visarjan Paath", "desc": "विसर्जन", "view_name": "visarjan_paath", "view_type": "detail"}
 		]
+	},
+	"shri_mahaveerswami_pooja": {
+		"display_type": "detail",
+		"header": "Shri Mahaveer Swami Jin Pooja",
+		"header_change": "श्री महावीर स्वामी जिन पूजा",
+		"data_detail": "shri_mahaveerswami_pooja",
+		"look_string": true,
+		"data_list": []
+	},
+	"shri_parashvanaath_pooja": {
+		"display_type": "detail",
+		"header": "Shri Parashvanaath Jin Pooja",
+		"header_change": "श्री पार्श्वनाथ जिन पूजा",
+		"data_detail": "shri_parashvanaath_pooja",
+		"look_string": true,
+		"data_list": []
 	},
 	"Nandishwar_dweep_pooja": {
 		"display_type": "detail",
@@ -165,7 +184,6 @@
 		"look_string": true,
 		"data_list": []
 	},
-
 	"shri_sheetalnath_pooja": {
 		"display_type": "detail",
 		"header": "Shri Sheetalnath Jin Pooja",
@@ -334,6 +352,241 @@
 		"header_change": "जलाभिषेक पाठ",
 		"data_detail": "jal_abhishek_paath",
 		"look_string": false,
+		"data_list": []
+	},
+	"sammed_shikhar_ji_args": {
+		"display_type": "list",
+		"header": "Sammed Shikhar Ji Tonk Arghawali",
+		"data_detail": "",
+		"img_name": "chaubeesi",
+		"data_list": [
+			{"name": "Chopada Kund", "desc": "चोपड़ा कुंड", "view_name": "chopada_kund", "view_type": "tvain_msg_detail"},
+			{"name":"24 Tirthankar's Ganadhar Tonk", "desc": "२४ तीर्थंकरो के गणधरों की कूट", "view_name": "24_tirthankar_tonk", "view_type": "tvain_msg_detail"},
+			{"name":"Gyaanadhar Koot", "desc": "श्री कुंथुनाथ भगवान की टोंक (ज्ञानधर कूट)", "view_name": "gyaanadhar_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Mitrdhar Koot", "desc": "श्री नमिनाथ स्वामी की टोंक (मित्रधर कूट)", "view_name": "mitrdhar_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Naatak Koot", "desc": "श्री अरहनाथ स्वामी की टोंक (नाटक कूट)", "view_name": "naatak_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Sambal Koot", "desc": "श्री मल्लिनाथ स्वामी की टोंक (संवल कूट)", "view_name": "sambal_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Sankul Koot", "desc": "श्री श्रेयांसनाथ स्वामी की टोंक (संकुल कूट)", "view_name": "sankul_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Suprabh Koot", "desc": "श्री पुष्पदंत स्वामी की टोंक (सुप्रभ कूट)", "view_name": "suprabh_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Mohan Koot", "desc": "श्री पद्मप्रभु स्वामी की टोंक (मोहन कूट)", "view_name": "mohan_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Nirjar Koot", "desc": "श्री मुनिसुव्रतनाथ स्वामी की टोंक (निर्जर कूट)", "view_name": "nirjar_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Lalit Koot", "desc": "श्री चन्द्रप्रभु स्वामी की टोंक (ललित कूट)", "view_name": "lalit_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Shri Adinath bhagvaan Tonk", "desc": "श्री आदिनाथ भगवान की टोंक", "view_name": "adinath_tonk", "view_type": "tvain_msg_detail"},
+			{"name":"Vidyutavar Koot", "desc": "श्री शीतलनाथ स्वामी की टोंक (विद्युतवर कूट)", "view_name": "vidyutavar_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Svayambhoo Koot", "desc": "श्री अनंतनाथ स्वामी की टोंक (स्वयंभू कूट)", "view_name": "svayambhoo_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Dhaval Koot", "desc": "श्री सम्भवनाथ स्वामी की टोंक (धवल कूट)", "view_name": "dhaval_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Shri Vasupujya bhagvaan Tonk", "desc": "श्री वासुपूज्य भगवान की टोंक", "view_name": "vasupujya_tonk", "view_type": "tvain_msg_detail"},
+			{"name":"Anand Koot", "desc": "श्री अभिनन्दननाथ स्वामी की टोंक (आनंद कूट)", "view_name": "anand_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Sudattavar Koot", "desc": "श्री धर्मनाथ स्वामी की टोंक (सुदत्तवर कूट)", "view_name": "sudattavar_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Avichal Koot", "desc": "श्री सुमतिनाथ स्वामी की टोंक (अविचल कूट)", "view_name": "avichal_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Kundaprabh Koot", "desc": "श्री शांतिनाथ स्वामी की टोंक (कुंदप्रभ कूट)", "view_name": "kundaprabh_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Shri Mahaveer bhagvaan Tonk", "desc": "श्री महावीर स्वामी की टोंक", "view_name": "mahaveer_tonk", "view_type": "tvain_msg_detail"},
+			{"name":"Suveer Koot", "desc": "श्री विमलनाथ स्वामी की टोंक (सुवीर कूट)", "view_name": "suveer_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Prabhaas Koot", "desc": "श्री सुपार्श्वनाथ स्वामी की टोंक (प्रभास कूट)", "view_name": "prabhaas_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Siddhavar Koot", "desc": "श्री अजितनाथ स्वामी की टोंक (सिद्धवर कूट)", "view_name": "siddhavar_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Urjayant Koot", "desc": "श्री नेमिनाथ स्वामी की टोंक (उर्जयन्त कूट)", "view_name": "urjayant_koot", "view_type": "tvain_msg_detail"},
+			{"name":"Svarnabhadr Koot", "desc": "श्री पार्श्वनाथ स्वामी की टोंक (स्वर्णभद्र कूट)", "view_name": "svarnabhadr_koot", "view_type": "tvain_msg_detail"}
+		]
+	},
+	"chopada_kund": {
+		"display_type": "detail",
+		"header": "Chopada Kund",
+		"header_change": "चोपड़ा कुंड",
+		"data_detail": "chopada_kund",
+		"look_string": true,
+		"data_list": []
+	},
+	"24_tirthankar_tonk": {
+		"display_type": "detail",
+		"header": "24 Tirthankar's Ganadhar Tonk",
+		"header_change": "२४ तीर्थंकरो के गणधरों की कूट",
+		"data_detail": "24_tirthankar_tonk",
+		"look_string": true,
+		"data_list": []
+	},
+	"gyaanadhar_koot": {
+		"display_type": "detail",
+		"header": "Gyaanadhar Koot",
+		"header_change": "श्री कुंथुनाथ भगवान की टोंक (ज्ञानधर कूट)",
+		"data_detail": "gyaanadhar_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"mitrdhar_koot": {
+		"display_type": "detail",
+		"header": "Mitrdhar Koot",
+		"header_change": "श्री अरहनाथ स्वामी की टोंक (नाटक कूट)",
+		"data_detail": "mitrdhar_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"naatak_koot": {
+		"display_type": "detail",
+		"header": "Naatak Koot",
+		"header_change": "श्री अरहनाथ स्वामी की टोंक (नाटक कूट)",
+		"data_detail": "naatak_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"sankul_koot": {
+		"display_type": "detail",
+		"header": "Sankul Koot",
+		"header_change": "श्री श्रेयांसनाथ स्वामी की टोंक (संकुल कूट)",
+		"data_detail": "sankul_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"suprabh_koot": {
+		"display_type": "detail",
+		"header": "Suprabh Koot",
+		"header_change": "श्री पुष्पदंत स्वामी की टोंक (सुप्रभ कूट)",
+		"data_detail": "suprabh_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"mohan_koot": {
+		"display_type": "detail",
+		"header": "Mohan Koot",
+		"header_change": "श्री पद्मप्रभु स्वामी की टोंक (मोहन कूट)",
+		"data_detail": "mohan_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"nirjar_koot": {
+		"display_type": "detail",
+		"header": "Nirjar Koot",
+		"header_change": "श्री मुनिसुव्रतनाथ स्वामी की टोंक (निर्जर कूट)",
+		"data_detail": "nirjar_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"lalit_koot": {
+		"display_type": "detail",
+		"header": "Lalit Koot",
+		"header_change": "श्री चन्द्रप्रभु स्वामी की टोंक (ललित कूट)",
+		"data_detail": "lalit_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"adinath_tonk": {
+		"display_type": "detail",
+		"header": "Shri Adinath bhagvaan Tonk",
+		"header_change": "श्री आदिनाथ भगवान की टोंक",
+		"data_detail": "adinath_tonk",
+		"look_string": true,
+		"data_list": []
+	},
+	"vidyutavar_koot": {
+		"display_type": "detail",
+		"header": "Vidyutavar Koot",
+		"header_change": "श्री शीतलनाथ स्वामी की टोंक (विद्युतवर कूट)",
+		"data_detail": "vidyutavar_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"svayambhoo_koot": {
+		"display_type": "detail",
+		"header": "Svayambhoo Koot",
+		"header_change": "श्री अनंतनाथ स्वामी की टोंक (स्वयंभू कूट)",
+		"data_detail": "svayambhoo_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"dhaval_koot": {
+		"display_type": "detail",
+		"header": "Dhaval Koot",
+		"header_change": "श्री सम्भवनाथ स्वामी की टोंक (धवल कूट)",
+		"data_detail": "dhaval_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"vasupujya_tonk": {
+		"display_type": "detail",
+		"header": "Shri Vasupujya bhagvaan Tonk",
+		"header_change": "श्री वासुपूज्य भगवान की टोंक",
+		"data_detail": "vasupujya_tonk",
+		"look_string": true,
+		"data_list": []
+	},
+	"anand_koot": {
+		"display_type": "detail",
+		"header": "Anand Koot",
+		"header_change": "श्री अभिनन्दननाथ स्वामी की टोंक (आनंद कूट)",
+		"data_detail": "anand_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"sudattavar_koot": {
+		"display_type": "detail",
+		"header": "Sudattavar Koot",
+		"header_change": "श्री धर्मनाथ स्वामी की टोंक (सुदत्तवर कूट)",
+		"data_detail": "sudattavar_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"avichal_koot": {
+		"display_type": "detail",
+		"header": "Avichal Koot",
+		"header_change": "श्री सुमतिनाथ स्वामी की टोंक (अविचल कूट)",
+		"data_detail": "avichal_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"kundaprabh_koot": {
+		"display_type": "detail",
+		"header": "Kundaprabh Koot",
+		"header_change": "श्री शांतिनाथ स्वामी की टोंक (कुंदप्रभ कूट)",
+		"data_detail": "kundaprabh_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"mahaveer_tonk": {
+		"display_type": "detail",
+		"header": "Shri Mahaveer bhagvaan Tonk",
+		"header_change": "श्री महावीर स्वामी की टोंक",
+		"data_detail": "mahaveer_tonk",
+		"look_string": true,
+		"data_list": []
+	},
+	"suveer_koot": {
+		"display_type": "detail",
+		"header": "Suveer Koot",
+		"header_change": "श्री विमलनाथ स्वामी की टोंक (सुवीर कूट)",
+		"data_detail": "suveer_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"prabhaas_koot": {
+		"display_type": "detail",
+		"header": "Prabhaas Koot",
+		"header_change": "श्री सुपार्श्वनाथ स्वामी की टोंक (प्रभास कूट)",
+		"data_detail": "prabhaas_koot",
+		"look_string": true,
+		"data_list": []
+	},
+
+	"siddhavar_koot": {
+		"display_type": "detail",
+		"header": "Siddhavar Koot",
+		"header_change": "श्री अजितनाथ स्वामी की टोंक (सिद्धवर कूट)",
+		"data_detail": "siddhavar_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"urjayant_koot": {
+		"display_type": "detail",
+		"header": "Urjayant Koot",
+		"header_change": "श्री नेमिनाथ स्वामी की टोंक (उर्जयन्त कूट)",
+		"data_detail": "urjayant_koot",
+		"look_string": true,
+		"data_list": []
+	},
+	"svarnabhadr_koot": {
+		"display_type": "detail",
+		"header": "Svarnabhadr Koot",
+		"header_change": "श्री पार्श्वनाथ स्वामी की टोंक (स्वर्णभद्र कूट)",
+		"data_detail": "svarnabhadr_koot",
+		"look_string": true,
 		"data_list": []
 	},
 	"stotra": {

@@ -11,6 +11,9 @@
         android:roundIcon="@mipmap/tv_logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".TVaniMessage"
+            android:exported="false" />
         <activity android:name=".VTCalendar" />
         <activity android:name=".DisplayListData" />
         <activity android:name=".NavkarMantra" />
